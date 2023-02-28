@@ -1,15 +1,15 @@
 {
-  "name": "jonbp/wp-cli-sync",
+  "name": "stafflink-pty-ltd/wp-cli-sync",
   "type": "wordpress-muplugin",
-  "description": "A WP-CLI command for syncing a live site to a development environment",
+  "description": "A WP-CLI command for syncing a live site to a development environment. Based on the original package by Jon Beaumont-Pike.",
   "license": "MIT",
   "authors": [
     {
-      "name": "Jon Beaumont-Pike",
-      "email": "me@jonbp.co.uk",
-      "homepage": "https://jonbp.co.uk"
+      "name": "Matt Neal",
+      "email": "matt.neal@stafflink.com.au",
+      "homepage": "https://stafflink.com.au"
     }
   ],
-  "homepage": "https://github.com/jonbp/wp-cli-sync",
+  "homepage": "https://github.com/mattneal-stafflink/wp-cli-sync",
   "minimum-stability": "dev"
 }
